@@ -36,3 +36,13 @@ class BlackWidow(TemplateView):
             'body': 'My name is Natasha Romanova',
             'image': '/static/images/black_widow.jpg'
         }
+    
+class CaptainAmerica(TemplateView):
+    template_name = 'hero.html'
+
+    def get_context_data(self, **kwargs):
+        return {
+            'title': 'Captain America',
+            'body': 'My name is Steve Rodgers',
+            'image': '/static/images/captainamerica.jpg'
+        }
