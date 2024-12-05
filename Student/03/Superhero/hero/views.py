@@ -46,3 +46,13 @@ class CaptainAmerica(TemplateView):
             'body': 'My name is Steve Rodgers',
             'image': '/static/images/captainamerica.jpg'
         }
+
+class TheFlash(TemplateView):
+    template_name = 'hero.html'
+
+    def get_context_data(self, **kwargs):
+        return {
+            'title': 'The Flash',
+            'body': 'My name is Barry Allen',
+            'image': '/static/images/theflash.jpg'
+        }
