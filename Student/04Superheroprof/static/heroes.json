@@ -1,0 +1,61 @@
+{
+    "0": {
+        "title": "Spiderman",
+        "id": "Peter Parker",
+        "strength1": "Web Powers",
+        "strength2": "Spidey Senses",
+        "strength3": "Strength",
+        "weakness1": "His Naivete",
+        "weakness2": "Idealism and love for others",
+        "weakness3": "Ethyl Chloride Pesticide",
+        "imagePath": "/static/images/spiderman1.jpg"
+    },
+
+    "1": {
+        "title": "captain America",
+        "id": "Steve Rodgers",
+        "strength1":"enhanced strength",
+        "strength2": "enhanced speed",
+        "strength3": "good with shield",
+        "weakness1": "human",
+        "weakness2": "moral code",
+        "weakness3": "friends and family",
+        "imagePath": "/static/images/captainamerica.jpg"
+    },
+
+    "2": {
+        "title": "Hulk",
+        "id": "Bruce Banner",
+        "strength1": "super strength",
+        "strength2": "high durability",
+        "strength3": "gets tronger when angry",
+        "weakness1": "radiation",
+        "weakness2": "not smart",
+        "weakness3": "always fighting alter ego",
+        "imagePath": "/static/images/hulk.jpg"
+    },
+
+    "3": {
+        "title": "Iron Man",
+        "id": "Tony Stark",
+        "strength1": "intelligent",
+        "strength2": "nano tech",
+        "strength3": "blasters",
+        "weakness1": "ego",
+        "weakness2": "too cocky",
+        "weakness3": "his heart is failing",
+        "imagePath": "/static/images/iron_man.jpg"
+    },
+
+    "4": {
+        "title": "The Flash",
+        "id": "BArry Allen",
+        "strength1": "super speed",
+        "strength2": "super healing",
+        "strength3": "time travel",
+        "weakness1": "cold",
+        "weakness2": "love for others",
+        "weakness3": "family",
+        "imagePath": "/static/images/theflash.jpg"
+    }
+}
